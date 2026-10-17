@@ -1,0 +1,13 @@
+{
+  "dataset_name": "The Adventures of Sherlock Holmes (Arthur Conan Doyle)",
+  "source_url": "https://www.gutenberg.org/cache/epub/1661/pg1661.txt",
+  "raw_characters": 593911,
+  "total_tokens": 127243,
+  "vocab_size": 3106,
+  "seq_len": 20,
+  "stride": 5,
+  "total_sequences": 25445,
+  "train_samples": 20356,
+  "val_samples": 5089,
+  "min_freq": 3
+}
